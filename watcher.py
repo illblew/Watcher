@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+ 
 #Timestamp it
 timestamp() {
   echo date +"%T"
@@ -18,4 +20,4 @@ do
         fi
 done
 
-#Dirty BASH by illblew
+#Dirty PY  by illblew
